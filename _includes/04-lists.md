@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Github Learning
+1. Markdown syntax
+2. ordered and unordered list
